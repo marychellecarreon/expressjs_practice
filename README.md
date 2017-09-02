@@ -19,7 +19,7 @@
 - Open browser and goto http://localhost:3000
 ### SCREENSHOTS
 
-LANDING PAGE
+HOME PAGE
 
 ![screen shot 2017-09-02 at 9 41 59 pm](https://user-images.githubusercontent.com/26729817/29995948-b203f428-9027-11e7-96e0-c09f88cfbca8.png)
 
